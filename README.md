@@ -19,11 +19,15 @@ yarn add sequelize
 1. You either fork or Clone the repo link 
 2. Open your OS to your IDE terminal,then do
 ```
-git clone `Repo link`
+git clone `https://github.com/olukinni-029/Sequelize-ORM.git`
 ```
 3. Install your node Packages
 ```
 npm init
 yarn init
+```
+4. To Run 
+```
+npm start
 ```
 *Feel free to contribute!*
