@@ -26,3 +26,4 @@ git clone `Repo link`
 npm init
 yarn init
 ```
+*Feel free to contribute!*
